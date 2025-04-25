@@ -12,33 +12,36 @@ private:
 public:
 	client(std::vector<LPCWSTR>& com) : commandList(com), logs(&cnt::Logger("root"))
 	{
-		bool isFixed;
-		if (vectorFind<LPCWSTR>(com, L"--fixed")) {
-			logs.info("Check the file check");
-			logs.info("This may take some time");
-			logs.info("Please wait...");
-		} else {
-			logs.info("CNT.CORE is running");
-			logs.info("Basic stage inspection...");
-			logs.info("Get config file");
+		if (vectorFind(commandList, L"--debug")) logs.getLogger().setLevel(cnt::LogLevel::DEBUG);
+		if (vectorFind(commandList, L"--fixed")) {
+			try { Basic_Config.loadBinary(".cntconfigbin"); }
+			catch (std::exception &err) {
+				errList.push_back(LPCWSTR(err.what()));
+				registryBasicConfigFile();
+			}
+
+			if (!CreateDirectory(L"Config", nullptr)) errList.push_back(L"The directory 'Config' does not exist");
+			if (!CreateDirectory(L"Program", nullptr)) errList.push_back(L"The directory 'Program' does not exist");
+			if (!CreateDirectory(L"Temp", nullptr)) errList.push_back(L"The directory 'Temp' does not exist");
+			if (!CreateDirectory(L"Assets", nullptr)) {
+				errList.push_back(L"The directory 'Assets' does not exist");
+			}
+
+			exit(200);
 		}
 
-		initBasic(isFixed);
+		logs.info("CNT.CORE is running");
+		logs.info("Basic stage inspection...");
+		logs.info("Get config file");
+		initBasic();
 	}
 private:
 	// Init
-	void initBasic(bool isFixed) {
+	void initBasic() {
 		try {
 			Basic_Config.loadBinary(".cntconfigbin");
 		}
 		catch (std::exception& err) {
-			if (isFixed) {
-				logs.error("Error: {%s}", err.what());
-				errList.push_back(LPCWSTR(err.what()));
-				logs.warning("Fix...");
-				registryBasicConfigFile();
-				return;
-			}
 			logs.critical("Error: {%s}", err.what());
 		}
 	}
