@@ -1,0 +1,24 @@
+﻿  cnt.core.fixed.cpp
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cnt_apis\cnt\config.h(147,26): warning C4101: “err”: 未引用的局部变量
+  (编译源文件“src/cnt.core.fixed.cpp”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cnt_apis\cnt\config.h(199,31): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“src/cnt.core.fixed.cpp”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cnt_apis\cnt\config.h(203,32): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“src/cnt.core.fixed.cpp”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\cnt.core.fixed\src\cnt.core.fixed.console.h(14,25): warning C4101: “err”: 未引用的局部变量
+  (编译源文件“src/cnt.core.fixed.cpp”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\cnt.core.fixed\src\cnt.core.fixed.console.h(17,25): warning C4101: “err”: 未引用的局部变量
+  (编译源文件“src/cnt.core.fixed.cpp”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\cnt.core.fixed\src\cnt.core.fixed.console.h(20,25): warning C4101: “err”: 未引用的局部变量
+  (编译源文件“src/cnt.core.fixed.cpp”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\cnt.core.fixed\src\cnt.core.fixed.console.h(23,25): warning C4101: “err”: 未引用的局部变量
+  (编译源文件“src/cnt.core.fixed.cpp”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\cnt.core.fixed\src\cnt.core.fixed.console.h(50,1): warning C4715: “runConsole”: 不是所有的控件路径都返回值
+  cnt.core.fixed.vcxproj -> E:\APlcexenicesetrl\CNT\CNT_CORE\x64\Debug\cnt.core.fixed.exe
