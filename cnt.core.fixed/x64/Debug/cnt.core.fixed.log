@@ -20,5 +20,5 @@ E:\APlcexenicesetrl\CNT\CNT_CORE\cnt.core.fixed\src\cnt.core.fixed.console.h(20,
 E:\APlcexenicesetrl\CNT\CNT_CORE\cnt.core.fixed\src\cnt.core.fixed.console.h(23,25): warning C4101: “err”: 未引用的局部变量
   (编译源文件“src/cnt.core.fixed.cpp”)
   
-E:\APlcexenicesetrl\CNT\CNT_CORE\cnt.core.fixed\src\cnt.core.fixed.console.h(50,1): warning C4715: “runConsole”: 不是所有的控件路径都返回值
+E:\APlcexenicesetrl\CNT\CNT_CORE\cnt.core.fixed\src\cnt.core.fixed.console.h(52,1): warning C4715: “runConsole”: 不是所有的控件路径都返回值
   cnt.core.fixed.vcxproj -> E:\APlcexenicesetrl\CNT\CNT_CORE\x64\Debug\cnt.core.fixed.exe

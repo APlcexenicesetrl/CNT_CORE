@@ -11,6 +11,11 @@ struct {
 			
 			struct {
 				std::vector<LPCWSTR> commandList;
+				bool commandFind(LPCWSTR target) {
+					auto it = find(commandList.begin(), commandList.end(), target);
+					if (it != commandList.end()) return true;
+					return false;
+				}
 			} list;
 		} registers;
 	} core;

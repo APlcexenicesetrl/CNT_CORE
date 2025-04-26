@@ -1,0 +1,435 @@
+﻿  正在扫描源以查找模块依赖项...
+  cnt.core.install.win64.h
+  正在编译...
+  cnt.core.install.win64.h
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cnt_apis\cnt\config.h(147,26): warning C4101: “err”: 未引用的局部变量
+  (编译源文件“src/cnt.core.install.win64.h”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cnt_apis\cnt\config.h(199,31): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“src/cnt.core.install.win64.h”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cnt_apis\cnt\config.h(203,32): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“src/cnt.core.install.win64.h”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(672,46): error C4003: 类函数宏的调用“min”参数不足
+  (编译源文件“src/cnt.core.install.win64.h”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(672,46): error C2589: “(”:“::”右边的非法标记
+  (编译源文件“src/cnt.core.install.win64.h”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(672,46): error C2059: 语法错误:“)”
+  (编译源文件“src/cnt.core.install.win64.h”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3326,59): error C4003: 类函数宏的调用“min”参数不足
+  (编译源文件“src/cnt.core.install.win64.h”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3326,59): error C2589: “(”:“::”右边的非法标记
+  (编译源文件“src/cnt.core.install.win64.h”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3326,64): error C2059: 语法错误:“)”
+  (编译源文件“src/cnt.core.install.win64.h”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3322,15): error C2062: 意外的类型“unknown-type” 
+  (编译源文件“src/cnt.core.install.win64.h”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3322,15): error C2059: 语法错误:“)”
+  (编译源文件“src/cnt.core.install.win64.h”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3322,15): error C2059: 语法错误:“默认参数”
+  (编译源文件“src/cnt.core.install.win64.h”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3348,10): error C2059: 语法错误:“成员初始值设定项”
+  (编译源文件“src/cnt.core.install.win64.h”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3349,10): error C2059: 语法错误:“成员初始值设定项”
+  (编译源文件“src/cnt.core.install.win64.h”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3352,1): error C2059: 语法错误:“<L_GRAMMAR_end_class>”
+  (编译源文件“src/cnt.core.install.win64.h”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3394,19): error C2587: “sock”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3386,72):
+      参见“sock”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3394,28): error C2587: “interval_usec”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3390,14):
+      参见“interval_usec”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3394,7): error C2660: “httplib::detail::select_read”: 函数不接受 2 个参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3244,16):
+      参见“httplib::detail::select_read”的声明
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3394,7):
+      尝试匹配参数列表“()”时
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3396,57): error C2587: “interval_usec”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3390,14):
+      参见“interval_usec”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3396,20): error C2587: “start”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3396,14):
+      参见“start”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3397,32): error C2587: “keep_alive_timeout_sec”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3387,31):
+      参见“keep_alive_timeout_sec”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3397,22): error C2587: “timeout”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3397,14):
+      参见“timeout”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3400,9): error C2587: “svr_sock”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3386,53):
+      参见“svr_sock”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3404,28): error C2587: “sock”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3386,72):
+      参见“sock”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3404,37): error C2587: “interval_usec”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3390,14):
+      参见“interval_usec”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3404,16): error C2660: “httplib::detail::select_read”: 函数不接受 2 个参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3244,16):
+      参见“httplib::detail::select_read”的声明
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3404,16):
+      尝试匹配参数列表“()”时
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3405,9): error C2587: “val”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3404,10):
+      参见“val”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3407,16): error C2587: “val”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3404,10):
+      参见“val”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3408,33): error C2587: “start”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3396,14):
+      参见“start”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3408,41): error C2587: “timeout”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3397,14):
+      参见“timeout”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3424,3): error C2587: “keep_alive_max_count”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3422,35):
+      参见“keep_alive_max_count”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3431,10): error C2587: “ret”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3425,8):
+      参见“ret”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3458,35): error C2587: “callback”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3458,35):
+      参见“callback”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3459,16): error C2146: 语法错误: 缺少“;”(在标识符“strm”的前面)
+  (编译源文件“src/cnt.core.install.win64.h”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3465,37): error C2146: 语法错误: 缺少“)”(在标识符“sock”的前面)
+  (编译源文件“src/cnt.core.install.win64.h”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3465,43): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+  (编译源文件“src/cnt.core.install.win64.h”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3465,43): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+  (编译源文件“src/cnt.core.install.win64.h”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3473,13): error C2227: “->string”的左边必须指向类/结构/联合/泛型类型
+  (编译源文件“src/cnt.core.install.win64.h”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3473,69): error C2227: “->string”的左边必须指向类/结构/联合/泛型类型
+  (编译源文件“src/cnt.core.install.win64.h”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3474,23): error C2587: “s”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3473,77):
+      参见“s”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3475,16): error C2587: “s”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3473,77):
+      参见“s”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3476,5): error C2587: “ret”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3475,10):
+      参见“ret”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3477,12): error C2587: “ret”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3475,10):
+      参见“ret”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3479,10): error C2587: “s”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3473,77):
+      参见“s”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3484,7): error C2587: “s”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3483,60):
+      参见“s”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3484,23): error C2587: “s”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3483,60):
+      参见“s”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3485,16): error C2587: “s”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3483,60):
+      参见“s”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3486,5): error C2587: “ret”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3485,10):
+      参见“ret”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3487,12): error C2587: “ret”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3485,10):
+      参见“ret”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3489,10): error C2587: “s”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3483,60):
+      参见“s”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3502,11): error C2587: “hints”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3499,19):
+      参见“hints”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3506,8): error C2587: “ip”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3493,68):
+      参见“ip”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3512,10): error C2587: “host”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3493,43):
+      参见“host”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3558,43): error C2587: “hints”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3499,19):
+      参见“hints”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3558,51): error C2587: “result”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3500,19):
+      参见“result”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3612,50): error C2587: “opt”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3609,12):
+      参见“opt”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3630,27): error C2587: “socket_options”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3495,56):
+      参见“socket_options”的声明
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3630,41):
+      “socket_options”: 函数声明必须可用，因为所有参数都不依赖于模板参数
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3646,16): error C2587: “nonblocking”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3644,49):
+      参见“nonblocking”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3647,15): error C2587: “sock”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3644,38):
+      参见“sock”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3647,31): error C2587: “flags”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3646,8):
+      参见“flags”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3647,3): error C2660: “ioctlsocket”: 函数不接受 2 个参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1712,1):
+      参见“ioctlsocket”的声明
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3647,3):
+      尝试匹配参数列表“()”时
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3667,11): error C2587: “hints”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3664,19):
+      参见“hints”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3668,3): error C2587: “hints”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3664,19):
+      参见“hints”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3669,3): error C2587: “hints”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3664,19):
+      参见“hints”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3670,3): error C2587: “hints”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3664,19):
+      参见“hints”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3672,19): error C2587: “host”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3663,63):
+      参见“host”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3672,39): error C2587: “hints”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3664,19):
+      参见“hints”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3672,47): error C2587: “result”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3665,20):
+      参见“result”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3672,7): error C2660: “getaddrinfo”: 函数不接受 2 个参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\ws2tcpip.h(121,1):
+      参见“getaddrinfo”的声明
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3672,7):
+      尝试匹配参数列表“()”时
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3673,51): error C3639: 属于默认参数一部分的 lambda 只能具有 init-capture
+  (编译源文件“src/cnt.core.install.win64.h”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3673,51): error C2326: “auto httplib::detail::bind_ip_address::<lambda_3_>::operator ()(void) const”: 函数无法访问“result”
+  (编译源文件“src/cnt.core.install.win64.h”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3673,11): error C2587: “se”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3673,8):
+      参见“se”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3676,18): error C2587: “result”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3665,20):
+      参见“result”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3676,26): error C2587: “rp”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3676,13):
+      参见“rp”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3676,30): error C2587: “rp”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3676,13):
+      参见“rp”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3676,35): error C2587: “rp”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3676,13):
+      参见“rp”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3677,23): error C2587: “rp”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3676,13):
+      参见“rp”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3677,20): error C2530: “ai”: 必须初始化引用
+  (编译源文件“src/cnt.core.install.win64.h”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3678,17): error C2587: “sock”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3663,38):
+      参见“sock”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3678,23): error C2587: “ai”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3677,17):
+      参见“ai”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3678,58): error C2587: “ai”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3677,17):
+      参见“ai”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3678,12): error C2660: “bind”: 函数不接受 1 个参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1653,1):
+      参见“bind”的声明
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3678,12):
+      尝试匹配参数列表“()”时
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3679,7): error C2587: “ret”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3675,8):
+      参见“ret”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3684,10): error C2587: “ret”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3675,8):
+      参见“ret”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3732,19): error C2587: “socket_options”: 非法将局部变量作为默认参数
+  (编译源文件“src/cnt.core.install.win64.h”)
+      E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3732,19):
+      参见“socket_options”的声明
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3738,12): error C2227: “->move”的左边必须指向类/结构/联合/泛型类型
+  (编译源文件“src/cnt.core.install.win64.h”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3740,14): error C3639: 属于默认参数一部分的 lambda 只能具有 init-capture
+  (编译源文件“src/cnt.core.install.win64.h”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3758,13): error C3639: 属于默认参数一部分的 lambda 只能具有 init-capture
+  (编译源文件“src/cnt.core.install.win64.h”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3761,11): error C3639: 属于默认参数一部分的 lambda 只能具有 init-capture
+  (编译源文件“src/cnt.core.install.win64.h”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3761,53): error C3639: 属于默认参数一部分的 lambda 只能具有 init-capture
+  (编译源文件“src/cnt.core.install.win64.h”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3762,46): error C3639: 属于默认参数一部分的 lambda 只能具有 init-capture
+  (编译源文件“src/cnt.core.install.win64.h”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3763,15): error C3639: 属于默认参数一部分的 lambda 只能具有 init-capture
+  (编译源文件“src/cnt.core.install.win64.h”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3764,17): error C3639: 属于默认参数一部分的 lambda 只能具有 init-capture
+  (编译源文件“src/cnt.core.install.win64.h”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3773,48): error C3639: 属于默认参数一部分的 lambda 只能具有 init-capture
+  (编译源文件“src/cnt.core.install.win64.h”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3774,48): error C3639: 属于默认参数一部分的 lambda 只能具有 init-capture
+  (编译源文件“src/cnt.core.install.win64.h”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3788,48): error C3639: 属于默认参数一部分的 lambda 只能具有 init-capture
+  (编译源文件“src/cnt.core.install.win64.h”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3789,48): error C3639: 属于默认参数一部分的 lambda 只能具有 init-capture
+  (编译源文件“src/cnt.core.install.win64.h”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3801,9): error C3639: 属于默认参数一部分的 lambda 只能具有 init-capture
+  (编译源文件“src/cnt.core.install.win64.h”)
+  
+E:\APlcexenicesetrl\CNT\CNT_CORE\Library\cpp-httplib\httplib.h(3801,9): error C1003: 错误计数超过 100；正在停止编译
+  (编译源文件“src/cnt.core.install.win64.h”)
+  

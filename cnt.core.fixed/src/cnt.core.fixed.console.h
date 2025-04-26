@@ -42,9 +42,11 @@ int runConsole() {
 	configFilesCheck();
 
 	// Fixed
+	if (cnts.core.fixed.list.errList.empty()) return 0;
+	
 	if (cnts.core.fixed.list.commandList.empty() ||
 		cnts.core.fixed.list.commandFind(L"all") || 
 		!cnts.core.fixed.list.commandFind(L"check")) {
-		return 0;
+		return 2;
 	}
 }
