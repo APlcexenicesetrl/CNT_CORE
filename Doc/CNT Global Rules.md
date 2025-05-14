@@ -1,7 +1,7 @@
 <div align="center">
   
 <h1>CNT Global Rules</h1>
-🔨 It's time to make rules 🔨
+🔨 It's time to make rules 🔨<br><br>
 
 ![CNT_Standard_Protocol](https://img.shields.io/badge/CNT_Standard_Protocol-%F0%9F%94%A8-red?style=for-the-badge&labelColor=orange)
 
